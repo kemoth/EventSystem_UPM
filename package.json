@@ -1,0 +1,11 @@
+{
+  "name": "com.kemothstudios.eventsystem",
+  "version": "1.0.0",
+  "displayName": "Event System",
+  "description": "A simple event based design pattern named Event Bus",
+  "unity": "2017.1",
+  "author": {
+    "name": "Kemoth Studios",
+    "url": "https://www.kemothstudios.com"
+  }
+}
